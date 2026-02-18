@@ -1,0 +1,79 @@
+{
+    "name": "DEBASRIYA PANIGRAHY",
+    "contact": {
+        "phone": "7788861812",
+        "email": "debasriyapanigrahy2006@gmail.com",
+        "address": "Marela Garden,Berhampur, Odisha.",
+        "links": []
+    },
+    "summary": "I am a B.Tech Computer Science (AI & ML) student with a strong interest in programming and problem-solving. I have hands-on experience in C, C++, and Python, and I am currently learning Java. I am eager to gain industry exposure through internships and apply my technical knowledge to real-world challenges.",
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "school": "Nist University",
+            "year": "2024 -2028"
+        }
+    ],
+    "projects": [
+        {
+            "title": "C++ VOTING SYSTEM",
+            "description": ""
+        },
+        {
+            "title": "DEVELOPED A CONSOLE-BASED VOTING SYSTEM USING OOP",
+            "description": ""
+        },
+        {
+            "title": "CONCEPTS SUCH AS CLASSES, OBJECTS, FILE HANDLING, AND",
+            "description": ""
+        },
+        {
+            "title": "USER AUTHENTICATION.",
+            "description": ""
+        },
+        {
+            "title": "STACK-BASED EXPRESSION EVALUATION",
+            "description": ""
+        },
+        {
+            "title": "IMPLEMENTED INFIX-TO-POSTFIX CONVERSION AND EXPRESSION",
+            "description": ""
+        },
+        {
+            "title": "EVALUATION USING STACKS.",
+            "description": ""
+        }
+    ],
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "items": "C, C++, Python"
+        },
+        {
+            "category": "Currently Learning",
+            "items": "Java"
+        },
+        {
+            "category": "Core Concepts",
+            "items": ""
+        },
+        {
+            "category": "Other",
+            "items": "Data Structures & Algorithms (Basic)"
+        },
+        {
+            "category": "Tools & Platforms",
+            "items": "VS Code, GCC Compiler"
+        }
+    ],
+    "languages": [
+        "English",
+        "French"
+    ],
+    "strengths": [
+        "QUICK LEARNER",
+        "STRONG LOGICAL THINKING",
+        "CONSISTENT AND DISCIPLINED",
+        "GOOD COMMUNICATION SKILLS"
+    ]
+}

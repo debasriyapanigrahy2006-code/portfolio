@@ -1,0 +1,51 @@
+SKILLS
+CONTACT
+LANGUAGE
+ABOUT ME
+Bachelor of Technology
+Nist University
+2024 -2028
+EDUCATION
+English
+French
+DEBASRIYA PANIGRAHY
+7788861812
+Marela Garden,Berhampur, Odisha.
+debasriyapanigrahy2006@gmail.com
+Project Management
+Public Relations
+Teamwork
+Time Management
+Leadership
+Effective Communication
+Critical Thinking
+I am a B.Tech Computer Science (AI & ML) student with a strong interest in programming and
+problem-solving. I have hands-on experience in C, C++, and Python, and I am currently learning Java. I
+am eager to gain industry exposure through internships and apply my technical knowledge to real-world
+challenges.
+Subjects of Interest
+1.Data Structures
+2.Object-Oriented Programming
+3.Artificial Intelligence & Machine Learning
+(Foundational)
+Technical Skills
+Programming Languages: C, C++, Python
+Currently Learning: Java
+Core Concepts:
+Data Structures & Algorithms (Basic)
+Object-Oriented Programming (OOP)
+Problem Solving
+Tools & Platforms: VS Code, GCC Compiler
+ACADEMIC PROJECTS
+C++ VOTING SYSTEM
+DEVELOPED A CONSOLE-BASED VOTING SYSTEM USING OOP
+CONCEPTS SUCH AS CLASSES, OBJECTS, FILE HANDLING, AND
+USER AUTHENTICATION.
+STACK-BASED EXPRESSION EVALUATION
+IMPLEMENTED INFIX-TO-POSTFIX CONVERSION AND EXPRESSION
+EVALUATION USING STACKS.
+STRENGTHS
+QUICK LEARNER
+STRONG LOGICAL THINKING
+CONSISTENT AND DISCIPLINED
+GOOD COMMUNICATION SKILLS
